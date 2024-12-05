@@ -42,7 +42,7 @@
 
 ### Решение 1
 
-* Создал структуру
+* Создал структуру Helm.
 
 ![Screenshot_1](https://github.com/user-attachments/assets/37d7fa49-fdf4-493c-91bd-8c5eff6452dd)
 
