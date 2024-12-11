@@ -42,15 +42,6 @@
 
 ### Решение 1
 
-* Создал структуру Helm.
-
-![Screenshot_1](https://github.com/user-attachments/assets/37d7fa49-fdf4-493c-91bd-8c5eff6452dd)
-
-* Проверил, что все шаблоны корректно генерируются и нет ошибок в конфигурации.
-  
-![image](https://github.com/user-attachments/assets/8658d023-9b60-4e2a-93a8-0d433ad0b932)
-
-
 
 ---
 
